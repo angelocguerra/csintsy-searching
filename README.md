@@ -8,5 +8,5 @@ A dynamic model and implementation of the Breadth First Search algorithm that si
 
 ---
 
-Created by: Shem Matthew Salih, Angelo Guerra, Adrian Yung Cheng, Aaron Rae Nicolas, and Hans Tuballa<br>
+Created by: Shem Salih, Angelo Guerra, Adrian Yung Cheng, Aaron Nicolas, and Hans Tuballa<br>
 Date Submitted: June 2023
